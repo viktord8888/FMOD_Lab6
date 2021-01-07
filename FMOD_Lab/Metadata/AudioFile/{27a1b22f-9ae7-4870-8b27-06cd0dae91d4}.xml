@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{27a1b22f-9ae7-4870-8b27-06cd0dae91d4}">
+		<property name="assetPath">
+			<value>PM_FSSF2_DRONES_6_LOOP.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>23</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{547086cd-8dc6-4ebe-95c6-4e9129d0814b}</destination>
+		</relationship>
+	</object>
+</objects>

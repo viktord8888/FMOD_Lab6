@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5f24ee9c-dbb9-4c37-acb5-74833d68e9ee}">
+		<property name="assetPath">
+			<value>metal_run_4.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.30149659863945577</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{547086cd-8dc6-4ebe-95c6-4e9129d0814b}</destination>
+		</relationship>
+	</object>
+</objects>

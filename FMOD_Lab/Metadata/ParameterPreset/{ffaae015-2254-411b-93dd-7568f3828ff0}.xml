@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{ffaae015-2254-411b-93dd-7568f3828ff0}">
+		<property name="name">
+			<value>SurfaceRun</value>
+		</property>
+		<relationship name="folder">
+			<destination>{632d0aa6-e7d7-40b3-b5de-95352fa6a8a2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4ca65d05-94f6-4e37-b8eb-7ddf9150efa5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4ca65d05-94f6-4e37-b8eb-7ddf9150efa5}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>DirtRun</value>
+			<value>MetalRun</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

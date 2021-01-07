@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{51e03698-0338-48a1-8b89-a14b162ed725}">
+		<property name="assetPath">
+			<value>metal_walk_4.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.4887528344671202</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{547086cd-8dc6-4ebe-95c6-4e9129d0814b}</destination>
+		</relationship>
+	</object>
+</objects>
